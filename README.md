@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"></h2>
+<h2>Hi 👋! My name is Sahil and I'm a software developer , from Himachal Pradesh<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 ###
 
@@ -39,5 +41,39 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-###
+```javascript
+const sahil = {
+  pronouns: "he" | "him",
+  role: "MCA Student | Aspiring Software Developer",
+  code: ["JavaScript", "HTML", "CSS", "C++", "Java", "Python"],
+  tools: [
+    "React",
+    "Git",
+    "GitHub",
+    "Postman",
+    "MySQL",
+    "MySQL Workbench",
+    "Figma",
+    "VS Code",
+    "LeetCode"
+  ],
+  interests: [
+    "Web Development",
+    "Problem Solving",
+    "UI/UX Design",
+    "Video Editing (Learning)"
+  ],
+  currentlyLearning: ["React", "JavaScript", "Backend Development"],
+  challenge: "Improving daily by building projects and solving DSA problems 🚀"
+};
+
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>eact and typescript"
+}
+---
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
