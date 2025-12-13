@@ -87,5 +87,9 @@ const sahil = {
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Sahilvee)
 
 ---
-<img src="https://raw.githubusercontent.com/Sahilvee/Sahilvee/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilvee/Sahilvee/output/snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sahilvee/Sahilvee/output/snake.svg">
+</picture>
+
 
